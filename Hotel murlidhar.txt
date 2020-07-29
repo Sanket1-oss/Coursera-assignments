@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>
+	Hotel Murlidhar
+	</title>
+	<link href="hotle.css" rel="stylehseet" type="text/css"/>
+	
+	</head>
