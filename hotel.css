@@ -29,11 +29,13 @@ height:300px;
 width:30%;
 float:left;
 }
+}
 @media (min-width:992px) and (max-width:1199px){
 .Menu{
 height:300px;
-width:50%;
+width:40%;
 float:left;
+}
 }
 @media (min-width:100px) and (max-width:991px){
 .Menu{
@@ -41,6 +43,6 @@ height:300px;
 width:70%;
 float:left;
 }
-
+}
 
 
