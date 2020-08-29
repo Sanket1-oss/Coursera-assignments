@@ -1,0 +1,50 @@
+header{
+    padding: 20px;
+}
+header h1{
+    padding: 5px 5px 5px 20px;
+}
+.navbar{
+    background-color:rgba(238,130,238,0.5);
+    
+}
+.navbar ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+.navbar li{
+    float:left;
+}
+.navbar a{
+    display: block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+.navbar a:hover{
+    background-color: white;
+}
+.botton{
+    overflow: hidden;
+}
+.element{
+    border:2px solid black;
+    margin: 20px ;
+    text-align: center;
+    background-color: darkviolet;
+    color: floralwhite;
+}
+.element p{
+    text-align: justify;
+}
+
+
+
+
+@media screen and (max-width: 700px) {
+    .botton {   
+        float: none;
+    }
+}
