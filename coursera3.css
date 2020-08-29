@@ -1,5 +1,9 @@
+*{
+    box-sizing: border-box;
+}
 header{
     padding: 20px;
+    background-color: linen;
 }
 header h1{
     padding: 5px 5px 5px 20px;
@@ -26,15 +30,18 @@ header h1{
 .navbar a:hover{
     background-color: white;
 }
-.botton{
-    overflow: hidden;
+.main{
+    font-size: 40px;
+    text-align: center;
+    margin: 30px;
 }
 .element{
-    border:2px solid black;
-    margin: 20px ;
+    margin: 20px 10px;
     text-align: center;
     background-color: darkviolet;
     color: floralwhite;
+    float: left;
+    
 }
 .element p{
     text-align: justify;
